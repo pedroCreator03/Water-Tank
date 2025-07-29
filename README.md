@@ -28,3 +28,8 @@ Max Capacity: 75
 
 Tank 1 has greater volume than tank 2.
 ```
+##Compile and Run
+```
+g++ main.cpp waterTank.cpp -o watertank
+./watertank
+```
